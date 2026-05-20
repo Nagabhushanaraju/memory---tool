@@ -1,0 +1,476 @@
+{
+  "entries": [
+    {
+      "date": "01/02/2026",
+      "hours": "7.5 hours",
+      "work": "Focused on strengthening Excel skills by working on real datasets involving sales and customer information. Applied advanced formulas and explored data validation techniques to ensure accuracy and consistency in data handling.",
+      "learning": [
+        "Advanced Excel usage",
+        "Data validation techniques",
+        "Handling real-world datasets"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Excel",
+        "Data handling"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "02/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "8 hours",
+      "work": "Conducted exploratory data analysis on provided datasets. Identified key trends and patterns.",
+      "learning": [
+        "Gained practical experience with industry-standard tools and technologies."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Data handling",
+        "Data preprocessing"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "03/02/2026",
+      "hours": "6.5 hours",
+      "work": "Explored data preprocessing techniques in depth including normalization, encoding categorical variables, and feature scaling methods. This improved understanding of preparing raw data for machine learning models.",
+      "learning": [
+        "Data preprocessing techniques",
+        "Feature scaling methods",
+        "Encoding categorical data"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Preprocessing",
+        "Data transformation"
+      ],
+      "blockers": "Initial confusion in choosing correct encoding technique",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "04/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "7 hours",
+      "work": "Studied SQL optimization and database query performance. Executed complex queries for data extraction.",
+      "learning": [
+        "Enhanced knowledge of data-driven decision making."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "SQL",
+        "Visualization"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "05/02/2026",
+      "hours": "8 hours",
+      "work": "Worked on SQL optimization techniques including subqueries and indexing concepts. Practiced improving query performance and reducing execution time for large datasets.",
+      "learning": [
+        "SQL optimization",
+        "Complex queries",
+        "Database efficiency"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "SQL",
+        "Problem solving"
+      ],
+      "blockers": "Query optimization took additional debugging time",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "06/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "6 hours",
+      "work": "Worked with Power BI to build interactive dashboards. Integrated multiple data sources.",
+      "learning": [
+        "Improved understanding of data analysis lifecycle and best practices."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Power BI",
+        "Tableau"
+      ],
+      "blockers": "Minor technical issues resolved"
+    },
+    {
+      "date": "07/02/2026",
+      "hours": "6 hours",
+      "work": "Studied principles of data visualization including proper chart selection, color usage, and effective storytelling techniques to convey business insights clearly.",
+      "learning": [
+        "Visualization principles",
+        "Chart selection",
+        "Data storytelling"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Visualization",
+        "Design thinking"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "08/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "8 hours",
+      "work": "Studied machine learning fundamentals and algorithms. Practiced model building with sample data.",
+      "learning": [
+        "Developed stronger analytical and problem-solving skills."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Python",
+        "Machine learning"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "09/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "6 hours",
+      "work": "Worked on data pipeline development and workflow automation concepts.",
+      "learning": [
+        "Enhanced knowledge of data-driven decision making."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Machine learning",
+        "Data engineering"
+      ],
+      "blockers": "Minor technical issues resolved"
+    },
+    {
+      "date": "10/02/2026",
+      "hours": "7 hours",
+      "work": "Worked with Power BI to build advanced dashboards integrating multiple datasets and creating calculated columns and measures for deeper analysis.",
+      "learning": [
+        "Advanced dashboards",
+        "Data integration",
+        "Calculated fields"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Power BI",
+        "Data modeling"
+      ],
+      "blockers": "Faced minor issues while linking multiple datasets",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "11/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "8 hours",
+      "work": "Worked on data analysis and processing tasks. Focused on improving efficiency and accuracy in data handling.",
+      "learning": [
+        "Improved understanding of data analysis lifecycle and best practices."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Analytics",
+        "Excel"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "12/02/2026",
+      "hours": "6.5 hours",
+      "work": "Explored Tableau for comparative visualization and dashboard design focusing on interactivity and user engagement.",
+      "learning": [
+        "Tableau basics",
+        "Interactive dashboards",
+        "Comparative analysis"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Tableau",
+        "Visualization"
+      ],
+      "blockers": "Learning new tool interface took extra time",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "13/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "7 hours",
+      "work": "Practiced advanced Excel techniques including formulas, pivot tables, and data visualization.",
+      "learning": [
+        "Developed stronger analytical and problem-solving skills."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Data handling",
+        "Data preprocessing"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "14/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "8 hours",
+      "work": "Studied SQL optimization and database query performance. Executed complex queries for data extraction.",
+      "learning": [
+        "Enhanced knowledge of data-driven decision making."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Data preprocessing",
+        "SQL"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "15/02/2026",
+      "hours": "7.2 hours",
+      "work": "Started understanding machine learning fundamentals including supervised and unsupervised learning techniques along with different model evaluation metrics used in real-world applications.",
+      "learning": [
+        "Machine learning basics",
+        "Supervised vs unsupervised learning",
+        "Model evaluation metrics"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Conceptual understanding",
+        "Analytical thinking"
+      ],
+      "blockers": "Initial difficulty in understanding ML terminology",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "16/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "7 hours",
+      "work": "Worked with Power BI to build interactive dashboards. Integrated multiple data sources.",
+      "learning": [
+        "Improved understanding of data analysis lifecycle and best practices."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Visualization",
+        "Power BI"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "17/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "8 hours",
+      "work": "Practiced Tableau for comparative analysis and interactive visualizations.",
+      "learning": [
+        "Gained practical experience with industry-standard tools and technologies."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Power BI",
+        "Tableau"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "18/02/2026",
+      "hours": "6.8 hours",
+      "work": "Worked on small machine learning models using sample datasets and evaluated their performance using metrics such as accuracy and error rates.",
+      "learning": [
+        "Model training",
+        "Performance evaluation",
+        "Hands-on machine learning"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Machine learning",
+        "Data evaluation"
+      ],
+      "blockers": "Model tuning required multiple iterations",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "19/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "7 hours",
+      "work": "Worked on data pipeline development and workflow automation concepts.",
+      "learning": [
+        "Enhanced knowledge of data-driven decision making."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Python",
+        "Machine learning"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "20/02/2026",
+      "hours": "5.9 hours",
+      "work": "Explored data pipelines and workflow automation concepts used in real-world analytics systems to understand how large-scale data processing is managed efficiently.",
+      "learning": [
+        "Data pipelines",
+        "Workflow automation",
+        "System-level thinking"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "System thinking",
+        "Data engineering basics"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "21/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "6 hours",
+      "work": "Worked on data analysis and processing tasks. Focused on improving efficiency and accuracy in data handling.",
+      "learning": [
+        "Improved understanding of data analysis lifecycle and best practices."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Data engineering",
+        "Analytics"
+      ],
+      "blockers": "Minor technical issues resolved"
+    },
+    {
+      "date": "22/02/2026",
+      "hours": "7.6 hours",
+      "work": "Began planning for retail sales analysis project including dataset selection, defining the problem statement, and outlining the analytical approach.",
+      "learning": [
+        "Project planning",
+        "Problem definition",
+        "Analytical structuring"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Planning",
+        "Analytical design"
+      ],
+      "blockers": "Selecting appropriate dataset required extra time",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "23/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "8 hours",
+      "work": "Practiced advanced Excel techniques including formulas, pivot tables, and data visualization.",
+      "learning": [
+        "Developed stronger analytical and problem-solving skills."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Excel",
+        "Data handling"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "24/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "6 hours",
+      "work": "Studied SQL optimization and database query performance. Executed complex queries for data extraction.",
+      "learning": [
+        "Enhanced knowledge of data-driven decision making."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Data handling",
+        "Data preprocessing"
+      ],
+      "blockers": "Minor technical issues resolved"
+    },
+    {
+      "date": "25/02/2026",
+      "hours": "6.3 hours",
+      "work": "Researched advanced retrieval and ranking techniques and their importance in improving analytical outputs and system performance.",
+      "learning": [
+        "Research techniques",
+        "Ranking methods",
+        "Advanced analytics concepts"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Research",
+        "Critical thinking"
+      ],
+      "blockers": "Understanding advanced concepts took additional effort",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "26/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "8 hours",
+      "work": "Worked with Power BI to build interactive dashboards. Integrated multiple data sources.",
+      "learning": [
+        "Improved understanding of data analysis lifecycle and best practices."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "SQL",
+        "Visualization"
+      ],
+      "blockers": "NIL"
+    },
+    {
+      "date": "27/02/2026",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034",
+      "hours": "6 hours",
+      "work": "Practiced Tableau for comparative analysis and interactive visualizations.",
+      "learning": [
+        "Gained practical experience with industry-standard tools and technologies."
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Visualization",
+        "Power BI"
+      ],
+      "blockers": "Minor technical issues resolved"
+    },
+    {
+      "date": "28/02/2026",
+      "hours": "7.4 hours",
+      "work": "Reviewed all learnings from February and consolidated knowledge by applying combined techniques in a mini analytical workflow integrating multiple tools and concepts.",
+      "learning": [
+        "Knowledge consolidation",
+        "Tool integration",
+        "Workflow understanding"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Integration",
+        "Workflow design"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    }
+  ]
+}

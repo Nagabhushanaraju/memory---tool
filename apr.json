@@ -1,0 +1,454 @@
+{
+  "entries": [
+    {
+      "date": "01/04/2026",
+      "hours": "8 hours",
+      "work": "Continued ML/AI Portfolio dashboard refinement. Improved GUI elements and tested all 10 project launches from dashboard.",
+      "learning": [
+        "Tkinter advanced widgets",
+        "Event handling optimization",
+        "User interface refinement"
+      ],
+      "references": "https://docs.python.org/3/library/tkinter.html",
+      "skills": ["GUI Development", "Python", "UI Design"],
+      "blockers": "Minor threading issues resolved with proper synchronization",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "02/04/2026",
+      "hours": "7.6 hours",
+      "work": "Started Brain Tumor Detection (NeuroScan AI) project. Set up ensemble deep learning architecture with ResNet50, EfficientNetV2, and Vision Transformer models for MRI analysis.",
+      "learning": [
+        "Ensemble learning methodologies",
+        "Transfer learning with pre-trained models",
+        "PyTorch model architecture design"
+      ],
+      "references": "https://pytorch.org/docs/stable/torchvision/models.html",
+      "skills": ["Deep Learning", "Ensemble Methods", "PyTorch"],
+      "blockers": "GPU memory constraints solved with gradient checkpointing",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "03/04/2026",
+      "hours": "7.4 hours",
+      "work": "Enhanced ML/AI Portfolio typing animations and knowledge flow panels. Tested completion popup and upload/test interface functionality.",
+      "learning": [
+        "Animation implementation techniques",
+        "File dialog integration",
+        "Modal window design"
+      ],
+      "references": "https://docs.python.org/3/library/tkinter.filedialog.html",
+      "skills": ["GUI Programming", "Animation", "Event Handling"],
+      "blockers": "File path handling on Windows required special path formatting",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "04/04/2026",
+      "hours": "7.8 hours",
+      "work": "Began Brain Tumor Detection data preprocessing. Implemented medical image normalization, cropping, and augmentation for MRI datasets.",
+      "learning": [
+        "Medical image preprocessing",
+        "Data augmentation for medical imaging",
+        "Normalization techniques for neural networks"
+      ],
+      "references": "https://pytorch.org/vision/stable/transforms.html",
+      "skills": ["Image Processing", "Medical AI", "Data Engineering"],
+      "blockers": "Dataset size handling implemented with batching strategy",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "05/04/2026",
+      "hours": "8 hours",
+      "work": "Tested ML/AI Portfolio end-to-end workflow. Verified all 10 projects launch correctly and produce expected outputs.",
+      "learning": [
+        "System integration testing",
+        "End-to-end workflow validation",
+        "Output verification"
+      ],
+      "references": "https://docs.python.org/3/library/tkinter.html",
+      "skills": ["Testing", "System Validation", "Debugging"],
+      "blockers": "None - all projects tested successfully",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "06/04/2026",
+      "hours": "7.5 hours",
+      "work": "Brain Tumor Detection: Started model training. Trained ResNet50, EfficientNetV2, and Vision Transformer on preprocessed MRI data.",
+      "learning": [
+        "Model training best practices",
+        "GPU utilization optimization",
+        "Learning rate scheduling"
+      ],
+      "references": "https://pytorch.org/docs/stable/optim.html",
+      "skills": ["Deep Learning", "Model Training", "PyTorch"],
+      "blockers": "Initial overfitting handled with dropout and regularization",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "07/04/2026",
+      "hours": "7.2 hours",
+      "work": "Enhanced ML/AI Portfolio completion popup. Added project-specific test report generation and results display.",
+      "learning": [
+        "Report generation",
+        "Result formatting",
+        "User feedback presentation"
+      ],
+      "references": "https://docs.python.org/3/library/tkinter.scrolledtext.html",
+      "skills": ["GUI Design", "Data Presentation", "Python"],
+      "blockers": "Text scrolling performance optimized with update batching",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "08/04/2026",
+      "hours": "7.9 hours",
+      "work": "Brain Tumor Detection: Integrated YOLO v11 content filtering. Tested filtering of non-medical images to ensure system integrity.",
+      "learning": [
+        "Object detection implementation",
+        "Content filtering pipeline",
+        "System integrity validation"
+      ],
+      "references": "https://github.com/ultralytics/ultralytics",
+      "skills": ["Object Detection", "Computer Vision", "Content Filtering"],
+      "blockers": "Inference speed optimized with FP16 precision and batch processing",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "09/04/2026",
+      "hours": "7.6 hours",
+      "work": "Tested ML/AI Portfolio upload functionality. Verified file type filtering and custom data handling for each project.",
+      "learning": [
+        "File format validation",
+        "Data type checking",
+        "User input validation"
+      ],
+      "references": "https://docs.python.org/3/library/tkinter.filedialog.html",
+      "skills": ["File Handling", "Validation", "Testing"],
+      "blockers": "File encoding issues on Windows resolved with UTF-8 handling",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "10/04/2026",
+      "hours": "8 hours",
+      "work": "Brain Tumor Detection: Evaluated model performance. Computed accuracy, precision, recall metrics. Achieved 99.03% validation accuracy.",
+      "learning": [
+        "Model evaluation metrics",
+        "Performance assessment",
+        "Confusion matrix analysis"
+      ],
+      "references": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+      "skills": ["Model Evaluation", "Medical AI", "Data Analysis"],
+      "blockers": "None - excellent performance achieved",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "11/04/2026",
+      "hours": "7.4 hours",
+      "work": "Performed debugging across ML/AI Portfolio modules. Fixed edge cases in dashboard, launcher, and upload dialogs.",
+      "learning": [
+        "Debugging techniques",
+        "Edge case handling",
+        "System stability"
+      ],
+      "references": "https://docs.python.org/3/library/pdb.html",
+      "skills": ["Debugging", "Problem Solving", "Testing"],
+      "blockers": "Multiple edge cases identified and fixed iteratively",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "12/04/2026",
+      "hours": "7.7 hours",
+      "work": "Brain Tumor Detection: Created meta-ensemble (stacker) MLP to fuse predictions from three models. Trained stacker for optimal ensemble performance.",
+      "learning": [
+        "Meta-learner training",
+        "Ensemble stacking",
+        "Prediction fusion"
+      ],
+      "references": "https://pytorch.org/docs/stable/nn.html",
+      "skills": ["Ensemble Methods", "Deep Learning", "Optimization"],
+      "blockers": "None - stacker trained successfully",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "13/04/2026",
+      "hours": "7.5 hours",
+      "work": "Validated ML/AI Portfolio test reports. Verified accuracy metrics, file processing, and results display for all 10 projects.",
+      "learning": [
+        "Output validation",
+        "Quality assurance",
+        "Results verification"
+      ],
+      "references": "https://docs.python.org/3/library/json.html",
+      "skills": ["Validation", "QA", "Testing"],
+      "blockers": "None - all outputs validated successfully",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "14/04/2026",
+      "hours": "8 hours",
+      "work": "Brain Tumor Detection: Built Flask web application. Created user interface for MRI upload, inference, and result visualization.",
+      "learning": [
+        "Flask framework",
+        "Web application development",
+        "Frontend-backend integration"
+      ],
+      "references": "https://flask.palletsprojects.com/",
+      "skills": ["Web Development", "Python", "UI Design"],
+      "blockers": "None - web app successfully deployed",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "15/04/2026",
+      "hours": "7.8 hours",
+      "work": "Tested ML/AI Portfolio interactive launcher. Verified typing animations, knowledge flow, step-by-step execution, and console output.",
+      "learning": [
+        "Animation testing",
+        "User experience validation",
+        "System responsiveness"
+      ],
+      "references": "https://docs.python.org/3/library/threading.html",
+      "skills": ["Testing", "User Experience", "Threading"],
+      "blockers": "None - all features working smoothly",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "16/04/2026",
+      "hours": "7.6 hours",
+      "work": "Brain Tumor Detection: Configured Docker deployment. Created Dockerfile and docker-compose.yml for containerized application.",
+      "learning": [
+        "Docker containerization",
+        "Container configuration",
+        "Deployment automation"
+      ],
+      "references": "https://docs.docker.com/",
+      "skills": ["Docker", "Deployment", "DevOps"],
+      "blockers": "None - Docker setup successful",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "17/04/2026",
+      "hours": "7.9 hours",
+      "work": "ML/AI Portfolio: Documented all 10 projects, dashboard features, and interactive launcher functionality. Created comprehensive user guide.",
+      "learning": [
+        "Technical documentation",
+        "User guide creation",
+        "Professional writing"
+      ],
+      "references": "https://www.mkdocs.org/",
+      "skills": ["Documentation", "Communication", "Writing"],
+      "blockers": "None - documentation completed successfully",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "18/04/2026",
+      "hours": "7.4 hours",
+      "work": "Brain Tumor Detection: Created comprehensive documentation including model architecture, training pipeline, and deployment instructions.",
+      "learning": [
+        "Medical AI documentation",
+        "Technical specification writing",
+        "Deployment guide creation"
+      ],
+      "references": "https://pytorch.org/docs/stable/index.html",
+      "skills": ["Documentation", "Technical Writing", "Medical AI"],
+      "blockers": "None - documentation complete",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "19/04/2026",
+      "hours": "7.7 hours",
+      "work": "Tested ML/AI Portfolio dashboard launching. Verified START_DASHBOARD.bat works correctly and all projects are accessible.",
+      "learning": [
+        "Batch script automation",
+        "System launching",
+        "Process management"
+      ],
+      "references": "https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/start",
+      "skills": ["Automation", "System Integration", "Testing"],
+      "blockers": "None - launcher fully functional",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "20/04/2026",
+      "hours": "8 hours",
+      "work": "Brain Tumor Detection: Tested Flask web application. Verified MRI upload, model inference, and result visualization functionality.",
+      "learning": [
+        "Web application testing",
+        "User interface validation",
+        "System integration"
+      ],
+      "references": "https://flask.palletsprojects.com/",
+      "skills": ["Web Testing", "Application Validation", "Integration"],
+      "blockers": "None - web app fully functional",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "21/04/2026",
+      "hours": "7.5 hours",
+      "work": "ML/AI Portfolio: Final debugging and optimization. Fixed remaining issues and optimized performance across all components.",
+      "learning": [
+        "Performance optimization",
+        "Code optimization",
+        "System efficiency"
+      ],
+      "references": "https://docs.python.org/3/library/profile.html",
+      "skills": ["Debugging", "Optimization", "Performance"],
+      "blockers": "None - optimization successful",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "22/04/2026",
+      "hours": "7.8 hours",
+      "work": "Brain Tumor Detection: Final model validation and testing. Verified ensemble accuracy, YOLO filtering, and deployment readiness.",
+      "learning": [
+        "Final validation procedures",
+        "Quality assurance",
+        "Deployment readiness"
+      ],
+      "references": "https://pytorch.org/docs/stable/index.html",
+      "skills": ["Validation", "QA", "Deployment"],
+      "blockers": "None - system ready for deployment",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "23/04/2026",
+      "hours": "7.6 hours",
+      "work": "ML/AI Portfolio: Verified all 10 projects produce correct outputs and test reports display properly.",
+      "learning": [
+        "Output verification",
+        "Results validation",
+        "Report generation"
+      ],
+      "references": "https://docs.python.org/3/library/json.html",
+      "skills": ["Validation", "Testing", "Analysis"],
+      "blockers": "None - all outputs correct",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "24/04/2026",
+      "hours": "7.9 hours",
+      "work": "Brain Tumor Detection: Finalized deployment package. Organized models, weights, documentation, and Docker configuration for submission.",
+      "learning": [
+        "Deployment package organization",
+        "File structure optimization",
+        "Submission readiness"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/",
+      "skills": ["Organization", "Deployment", "Management"],
+      "blockers": "None - deployment package complete",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "25/04/2026",
+      "hours": "7.4 hours",
+      "work": "Conducted comprehensive testing of both ML/AI Portfolio and Brain Tumor Detection systems. Verified all functionality and deployment readiness.",
+      "learning": [
+        "Comprehensive testing",
+        "System validation",
+        "Quality assurance"
+      ],
+      "references": "https://docs.python.org/3/library/unittest.html",
+      "skills": ["Testing", "System Validation", "QA"],
+      "blockers": "None - both systems fully tested",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "26/04/2026",
+      "hours": "7.7 hours",
+      "work": "ML/AI Portfolio: Final review and polish. Enhanced UI, optimized performance, ensured professional quality for submission.",
+      "learning": [
+        "Polish and refinement",
+        "UI enhancement",
+        "Professional quality"
+      ],
+      "references": "https://docs.python.org/3/library/tkinter.html",
+      "skills": ["UI Design", "Refinement", "Quality"],
+      "blockers": "None - dashboard polished successfully",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "27/04/2026",
+      "hours": "8 hours",
+      "work": "Brain Tumor Detection: Final documentation review and completion. Ensured all technical details, architecture descriptions, and deployment instructions are clear and professional.",
+      "learning": [
+        "Documentation finalization",
+        "Quality review",
+        "Professional presentation"
+      ],
+      "references": "https://pytorch.org/docs/stable/index.html",
+      "skills": ["Documentation", "Review", "Writing"],
+      "blockers": "None - documentation finalized",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "28/04/2026",
+      "hours": "7.5 hours",
+      "work": "Organized complete project structure for both systems. Created clean file hierarchies, organized outputs, and prepared final submission packages.",
+      "learning": [
+        "Project organization",
+        "File structure design",
+        "Submission preparation"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": ["Organization", "Management", "Planning"],
+      "blockers": "None - projects well organized",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "29/04/2026",
+      "hours": "7.8 hours",
+      "work": "Final comprehensive review of ML/AI Portfolio and Brain Tumor Detection projects. Verified all components are functional, documented, and ready for evaluation.",
+      "learning": [
+        "Final review procedures",
+        "Completeness verification",
+        "Quality confirmation"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/",
+      "skills": ["Review", "Verification", "Quality Control"],
+      "blockers": "None - all components verified",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "30/04/2026",
+      "hours": "8 hours",
+      "work": "Completed April milestone. ML/AI Portfolio dashboard with 10 projects and interactive launcher fully complete. Brain Tumor Detection ensemble system with 99.03% accuracy fully deployed. All projects ready for evaluation and submission.",
+      "learning": [
+        "Project completion",
+        "System integration",
+        "Deployment success"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": ["Completion", "Integration", "Professional Excellence"],
+      "blockers": "None - all April work successfully completed",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    }
+  ]
+}

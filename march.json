@@ -1,0 +1,562 @@
+{
+  "entries": [
+    {
+      "date": "01/03/2026",
+      "hours": "7.4 hours",
+      "work": "Initiated the Retail Store Sales Insights project by identifying the problem statement and understanding dataset requirements. Explored available retail datasets and finalized the structure for further analysis.",
+      "learning": [
+        "Project initiation process",
+        "Problem statement definition",
+        "Dataset selection strategy"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Planning",
+        "Analytical thinking"
+      ],
+      "blockers": "Selecting appropriate dataset required additional time",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "02/03/2026",
+      "hours": "6.8 hours",
+      "work": "Started data collection and performed initial inspection of dataset including checking columns, structure, and data types to understand the overall schema.",
+      "learning": [
+        "Data inspection techniques",
+        "Understanding schema",
+        "Column-level analysis"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Data understanding",
+        "Exploration"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "03/03/2026",
+      "hours": "7.2 hours",
+      "work": "Performed data cleaning including handling missing values, correcting inconsistencies, and removing duplicates to ensure dataset reliability.",
+      "learning": [
+        "Data cleaning techniques",
+        "Handling missing values",
+        "Data consistency improvement"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Preprocessing",
+        "Attention to detail"
+      ],
+      "blockers": "Faced inconsistent data formats in few columns",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "04/03/2026",
+      "hours": "6.1 hours",
+      "work": "Conducted exploratory data analysis (EDA) to identify patterns, trends, and relationships within the dataset using statistical summaries and visualizations.",
+      "learning": [
+        "Exploratory Data Analysis",
+        "Pattern recognition",
+        "Statistical insights"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "EDA",
+        "Visualization"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "05/03/2026",
+      "hours": "7.6 hours",
+      "work": "Created multiple visualizations including bar charts, line graphs, and distribution plots to better understand sales patterns and customer behavior.",
+      "learning": [
+        "Visualization techniques",
+        "Graph selection",
+        "Trend analysis"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Visualization",
+        "Data storytelling"
+      ],
+      "blockers": "Fine-tuning visual clarity required multiple iterations",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "06/03/2026",
+      "hours": "5.9 hours",
+      "work": "Performed feature engineering by creating derived columns such as revenue, profit margins, and customer segmentation features.",
+      "learning": [
+        "Feature engineering",
+        "Derived metrics creation",
+        "Data transformation"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Feature engineering",
+        "Transformation"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "07/03/2026",
+      "hours": "7.1 hours",
+      "work": "Prepared dataset for model training by splitting into training and testing sets and ensuring proper normalization of numerical features.",
+      "learning": [
+        "Train-test split",
+        "Normalization techniques",
+        "Model preparation"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Data preparation",
+        "Machine learning basics"
+      ],
+      "blockers": "Understanding scaling methods required extra effort",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "08/03/2026",
+      "hours": "6.4 hours",
+      "work": "Started training basic predictive models for sales forecasting and evaluated their initial performance.",
+      "learning": [
+        "Model training",
+        "Prediction techniques",
+        "Performance evaluation"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Machine learning",
+        "Evaluation"
+      ],
+      "blockers": "Initial model accuracy was low",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "09/03/2026",
+      "hours": "7.7 hours",
+      "work": "Improved model performance by tuning parameters and testing different approaches for better accuracy and generalization.",
+      "learning": [
+        "Model tuning",
+        "Hyperparameter adjustment",
+        "Performance improvement"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Optimization",
+        "Problem solving"
+      ],
+      "blockers": "Tuning required multiple trials",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "10/03/2026",
+      "hours": "6.3 hours",
+      "work": "Integrated cleaned data, visualizations, and model outputs into a unified workflow pipeline.",
+      "learning": [
+        "Pipeline integration",
+        "Workflow structuring",
+        "System-level thinking"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Integration",
+        "System design"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "11/03/2026",
+      "hours": "7.0 hours",
+      "work": "Started developing a dashboard interface to display analysis results and model predictions in a user-friendly format.",
+      "learning": [
+        "Dashboard planning",
+        "User interface design",
+        "Data presentation"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "UI thinking",
+        "Visualization"
+      ],
+      "blockers": "Layout structuring required adjustments",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "12/03/2026",
+      "hours": "6.6 hours",
+      "work": "Tested dashboard functionality and ensured smooth interaction between backend processing and frontend visualization.",
+      "learning": [
+        "System testing",
+        "Frontend-backend interaction",
+        "Debugging workflow"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Testing",
+        "Debugging"
+      ],
+      "blockers": "Minor integration bugs identified and fixed",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "13/03/2026",
+      "hours": "7.5 hours",
+      "work": "Started implementing the retail analysis script by structuring the pipeline for loading dataset, cleaning, and generating initial outputs. Worked on understanding the flow of phase1_retail_insights.py.",
+      "learning": [
+        "Script-based data pipeline",
+        "Code structuring",
+        "Workflow automation basics"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Python",
+        "Code understanding"
+      ],
+      "blockers": "Understanding large script structure took time",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "14/03/2026",
+      "hours": "6.8 hours",
+      "work": "Worked on dataset ingestion and preprocessing logic including automatic column detection such as revenue, quantity, and order_date fields.",
+      "learning": [
+        "Auto column detection",
+        "Flexible dataset handling",
+        "Preprocessing pipelines"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Data preprocessing",
+        "Python"
+      ],
+      "blockers": "Handling inconsistent column naming required adjustments",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "15/03/2026",
+      "hours": "7.2 hours",
+      "work": "Generated exploratory plots and reports using the analysis script. Verified outputs like cleaned dataset, visualizations, and markdown reports.",
+      "learning": [
+        "EDA automation",
+        "Report generation",
+        "Output validation"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Visualization",
+        "Validation"
+      ],
+      "blockers": "Plot formatting needed refinement",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "16/03/2026",
+      "hours": "6.3 hours",
+      "work": "Worked on model training pipeline within the script including preparing features and evaluating model outputs.",
+      "learning": [
+        "Model pipeline integration",
+        "Feature preparation",
+        "Prediction workflow"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Machine learning",
+        "Pipeline design"
+      ],
+      "blockers": "Model tuning required experimentation",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "17/03/2026",
+      "hours": "7.7 hours",
+      "work": "Started working with the dashboard (retail_ui_server.py) and explored how backend processing connects with frontend UI.",
+      "learning": [
+        "Backend-frontend interaction",
+        "Dashboard architecture",
+        "Server-based workflows"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Backend",
+        "System design"
+      ],
+      "blockers": "Understanding UI-server flow required debugging",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "18/03/2026",
+      "hours": "6.5 hours",
+      "work": "Tested dashboard features including Run Full Flow, Upload Data, and Refresh Status options for workflow automation.",
+      "learning": [
+        "Workflow automation",
+        "User interaction design",
+        "System testing"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Testing",
+        "Debugging"
+      ],
+      "blockers": "Minor bugs in workflow execution",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "19/03/2026",
+      "hours": "7.1 hours",
+      "work": "Worked with notebook version (retail_auto_scrape_clean_model.ipynb) and executed full pipeline step-by-step.",
+      "learning": [
+        "Notebook workflow",
+        "Stepwise execution",
+        "Pipeline debugging"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Jupyter",
+        "Analysis"
+      ],
+      "blockers": "Kernel execution order caused temporary errors",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "20/03/2026",
+      "hours": "6.9 hours",
+      "work": "Tested START_APP.bat launcher and observed full automation including environment setup, dependency installation, and dashboard launch.",
+      "learning": [
+        "Automation scripts",
+        "Environment setup",
+        "End-to-end execution"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Automation",
+        "System integration"
+      ],
+      "blockers": "Initial environment setup required troubleshooting",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "21/03/2026",
+      "hours": "7.3 hours",
+      "work": "Refined data pipeline by optimizing preprocessing steps and ensuring consistent data flow from raw input to cleaned dataset outputs.",
+      "learning": [
+        "Pipeline optimization",
+        "Data flow management",
+        "Process refinement"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Optimization",
+        "Pipeline design"
+      ],
+      "blockers": "Minor inconsistencies in intermediate outputs",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "22/03/2026",
+      "hours": "6.7 hours",
+      "work": "Worked on improving visualization outputs including adjusting plots, labels, and layouts for better clarity and business understanding.",
+      "learning": [
+        "Visualization refinement",
+        "Clarity in reporting",
+        "Data presentation improvement"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Visualization",
+        "Presentation"
+      ],
+      "blockers": "Multiple iterations required for clean visuals",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "23/03/2026",
+      "hours": "7.6 hours",
+      "work": "Integrated model predictions into final output workflow and ensured predictions align with cleaned dataset and visualization layers.",
+      "learning": [
+        "Prediction integration",
+        "Model-output alignment",
+        "End-to-end workflow connection"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Machine learning",
+        "Integration"
+      ],
+      "blockers": "Alignment issues between model output and dataset",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "24/03/2026",
+      "hours": "6.2 hours",
+      "work": "Validated generated outputs including CSV files, plots, and model artifacts stored in outputs directory.",
+      "learning": [
+        "Output validation",
+        "Data verification",
+        "Result consistency"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Validation",
+        "Debugging"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "25/03/2026",
+      "hours": "7.4 hours",
+      "work": "Tested full pipeline execution using demo dataset and ensured smooth execution from data loading to final reporting.",
+      "learning": [
+        "End-to-end testing",
+        "Workflow execution",
+        "System reliability"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Testing",
+        "System validation"
+      ],
+      "blockers": "Pipeline failed initially due to missing dependencies",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "26/03/2026",
+      "hours": "6.5 hours",
+      "work": "Worked on improving automation script behavior including environment setup and dependency installation logic.",
+      "learning": [
+        "Automation scripting",
+        "Environment setup",
+        "Dependency management"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Automation",
+        "System setup"
+      ],
+      "blockers": "Installation delays due to package conflicts",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "27/03/2026",
+      "hours": "7.1 hours",
+      "work": "Performed debugging and error handling improvements in both script and dashboard workflow.",
+      "learning": [
+        "Error handling",
+        "Debugging techniques",
+        "System stability improvement"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Debugging",
+        "Problem solving"
+      ],
+      "blockers": "Multiple edge-case errors identified",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "28/03/2026",
+      "hours": "6.9 hours",
+      "work": "Prepared final insights and interpreted business-level results from analysis including sales trends and customer behavior.",
+      "learning": [
+        "Insight generation",
+        "Business interpretation",
+        "Decision support"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard/courses/13",
+      "skills": [
+        "Business analysis",
+        "Interpretation"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "29/03/2026",
+      "hours": "7.5 hours",
+      "work": "Documented complete workflow including data extraction, preprocessing, EDA, model training, and dashboard integration.",
+      "learning": [
+        "Technical documentation",
+        "Workflow explanation",
+        "Project summarization"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Documentation",
+        "Communication"
+      ],
+      "blockers": "Ensuring completeness of documentation required time",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "30/03/2026",
+      "hours": "6.4 hours",
+      "work": "Performed final system testing and ensured that all components including scripts, dashboard, and outputs are functioning correctly.",
+      "learning": [
+        "System testing",
+        "Final validation",
+        "Quality assurance"
+      ],
+      "references": "https://www.nyerasclasses.in/dashboard",
+      "skills": [
+        "Testing",
+        "QA"
+      ],
+      "blockers": "Minor fixes required before finalization",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    },
+    {
+      "date": "31/03/2026",
+      "hours": "7.8 hours",
+      "work": "Completed the Retail Store Sales Insights project and verified complete system functionality including dashboard, automation, and reporting outputs.",
+      "learning": [
+        "Project completion",
+        "End-to-end system understanding",
+        "Professional readiness"
+      ],
+      "references": "https://github.com/Mr-nagabhushana-at-Git-hub/NYERAS",
+      "skills": [
+        "Integration",
+        "System design"
+      ],
+      "blockers": "NIL",
+      "name": "Nagabhushana Raju S",
+      "usn": "4MH22CD034"
+    }
+  ]
+}
